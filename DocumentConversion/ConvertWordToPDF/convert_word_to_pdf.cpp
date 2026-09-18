@@ -24,8 +24,8 @@ using namespace office_to_pdf;
 
 namespace {
 
-// Text for the conversion outcome. Reporting the enum rather than a raw integer
-// keeps the sample legible.
+// Human-readable text for the conversion outcome, so the status line reads
+// clearly in the sample's output.
 const char* status_text(ConversionStatus status)
 {
     switch (status) {
