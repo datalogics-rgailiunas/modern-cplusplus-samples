@@ -10,6 +10,9 @@ Convert document color spaces to a target profile.
 ### ConvertToOffice
 Convert PDF documents to Microsoft Office formats.
 
+### ConvertWordToPDF
+Convert a Microsoft Word (.docx) document to PDF.
+
 ### CreateDocFromWebPage
 Create a PDF document from a web page or local HTML file.
 
