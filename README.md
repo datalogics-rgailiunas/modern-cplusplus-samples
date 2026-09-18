@@ -56,7 +56,7 @@ The Makefile sets RPATH so the executable finds SDK libraries automatically.
 | Annotations | 5 |
 | ContentCreation | 16 |
 | ContentModification | 14 |
-| DocumentConversion | 10 |
+| DocumentConversion | 11 |
 | DocumentOptimization | 1 |
 | Forms | 4 |
 | Images | 14 |
@@ -65,4 +65,4 @@ The Makefile sets RPATH so the executable finds SDK libraries automatically.
 | Other | 2 |
 | Security | 4 |
 | Text | 14 |
-| **Total** | **93** |
+| **Total** | **94** |
